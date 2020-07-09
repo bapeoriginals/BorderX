@@ -1,0 +1,6 @@
+name: BorderX
+author: GuyNebuYea
+version: 1.0.0
+api: 3.0.0
+main: BorderX\Main
+description: Simple Border Plugin for PocketMine-MP
