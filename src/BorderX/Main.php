@@ -12,7 +12,7 @@ class Main extends Plugin implements Listener {
 
  public function onEnable() {
   $this->getServer()->getPluginManager()->registerEvents($this, $this);
-	$this->saveDefaultConfig();
+  $this->saveDefaultConfig();
  }
  
  public function onMove(PlayerMoveEvent $event) {
