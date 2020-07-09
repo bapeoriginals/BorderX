@@ -1,0 +1,13 @@
+# Config For BorderX Plugin #
+# Coded by GuyNebuYea #
+
+# Select the Level for the border #
+LevelName: "world"
+
+# Select the size for the border #
+# Ex - Selecting size 10, the border will be 10x10 #
+Size: "10"
+
+# Select your own message when reached the border #
+# Use § for colors! #
+BorderMSG: "§cYou reached the world border!"
